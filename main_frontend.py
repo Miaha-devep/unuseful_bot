@@ -2,7 +2,7 @@ from telebot import TeleBot, types
 
 from main_backend import *
 
-TOKEN = "6204762549:AAHIk5uEI-77Zl5y5pwRC4Y6nlnWXprVBWM"
+TOKEN = "TOKEN"
 bot = TeleBot(TOKEN)
 GREETINGS = """Здравствуйте, введите команду /help, чтобы узнать функции бота"""
 
